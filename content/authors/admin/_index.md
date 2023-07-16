@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Cédric Courtaud
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Cédric
+last_name: Courtaud
 
 # Status emoji
 status:
@@ -22,7 +22,7 @@ organizations:
     url: https://www.mpi-sws.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include operating systems and real-time systems.
 
 # Interests to show in About widget
 interests:
@@ -46,22 +46,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: 'mailto:ccourtaud@mpi-sws.org'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/cedric-courtaud
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/cédric-courtaud-ph-d-58b20a194/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
